@@ -1,4 +1,4 @@
-package TicTacToe.Model;
+package TicTacToe_LLD.Model;
 
 public class Player {
     public String name;

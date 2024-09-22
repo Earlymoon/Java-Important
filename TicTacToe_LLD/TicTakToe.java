@@ -1,6 +1,6 @@
-package TicTacToe;
+package TicTacToe_LLD;
 
-import TicTacToe.Model.*;
+import TicTacToe_LLD.Model.*;
 
 import java.util.Deque;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package TicTacToe.Model;
+package TicTacToe_LLD.Model;
 import java.util.*;
 public class Board {
     public int size;

@@ -1,4 +1,4 @@
-package TicTacToe.Model;
+package TicTacToe_LLD.Model;
 
 public class PlayingPiece {
     public PieceType pieceType;

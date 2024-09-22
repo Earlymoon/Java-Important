@@ -1,6 +1,4 @@
-package TicTacToe;
-
-import com.sun.security.jgss.GSSUtil;
+package TicTacToe_LLD;
 
 public class Main {
     public static void main(String[] args) {
