@@ -39,6 +39,7 @@ public class Board {
 
         for(int i=0;i<size;i++){
             for(int j=0;j<size;j++){
+//                System.out.print("|");
                 if(board[i][j]!=null){
                     System.out.print(board[i][j].pieceType+" ");
                 }else{

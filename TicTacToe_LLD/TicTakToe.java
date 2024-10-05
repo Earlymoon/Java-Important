@@ -25,6 +25,7 @@ public class TicTakToe {
         gameBoard=new Board(3);
     }
     public String startGame(){
+
         boolean isWinner=false;
         while(!isWinner){
 
@@ -52,6 +53,7 @@ public class TicTakToe {
 
             if(checkWinner(pos[0],pos[1],playerTurn.playingPiece)){
                 isWinner=true;
+                gameBoard.printBoard();
 
                 return playerTurn.name;
 
